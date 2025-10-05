@@ -111,7 +111,6 @@ export const RESUME_DATA: ResumeData = {
     "JavaScript",
     "Java",
     "Kubernetes",
-    "Apache Kafka",
     "NoSQL",
     "Postman",
   ],
